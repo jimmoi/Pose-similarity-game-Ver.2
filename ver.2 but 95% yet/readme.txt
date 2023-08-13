@@ -20,7 +20,7 @@
 	ใช้ optimizeต่างๆ
 	round_poes < จำนวนรูป  	---> จำนวนด่าน
 	image_scale 		--->แปลงความสูงรูป
-	scale optimize 		--->ขนาดหน้าต่าง
+	scale 			--->optimize ขนาดหน้าต่าง
 	cam_type 		--->เปลี่ยนชนิดกล้อง แนวตั้ง="Hor" แนวนอน="Ver"
 	crop_Hor		--->ตัดกรอบในแนวตั้ง
 	crop_Ver		--->ตัดกรอบในแนวนอน
