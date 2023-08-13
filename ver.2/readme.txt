@@ -18,4 +18,10 @@
 	
 4.config
 	ใช้ optimizeต่างๆ
-	round_poes < จำนวนรูป
+	round_poes < จำนวนรูป  	---> จำนวนด่าน
+	image_scale 		--->แปลงความสูงรูป
+	scale			--->optimize ขนาดหน้าต่าง
+	cam_type 		--->เปลี่ยนชนิดกล้อง แนวตั้ง="Hor" แนวนอน="Ver"
+	crop_Hor		--->ตัดกรอบในแนวตั้ง
+	crop_Ver		--->ตัดกรอบในแนวนอน
+	window_name		--->ชื่อหน้าต่าง
